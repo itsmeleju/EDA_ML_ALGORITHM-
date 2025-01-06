@@ -14,6 +14,6 @@ This repository contains implementations of various Machine Learning algorithms,
 **Key Features:**
 
 * **Clean and Commented Code:** The code is well-structured, easy to read, and includes comments to explain the logic and key steps.
-* **Data Exploration and Preprocessing:** Includes basic Exploratory Data Analysis (EDA) techniques and data preprocessing steps (e.g., handling missing values, featuring standard scaling) while applying the algorithms.
+* **Data Exploration and Preprocessing:** Includes basic Exploratory Data Analysis (EDA) techniques and data preprocessing steps (e.g., handling missing values, featuring standard scaling, xgboost) while applying the algorithms.
 * **Model Evaluation:** Provides functions for evaluating model performance using appropriate metrics (e.g., accuracy, precision, R-squared).
 
